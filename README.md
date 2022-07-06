@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+🌱 I’m currently learning R programming language
 <!--
 **Anhal-77/Anhal-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
